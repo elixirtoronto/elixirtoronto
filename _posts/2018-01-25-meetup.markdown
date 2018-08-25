@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "January 2018 meetup"
+date:   2018-01-25
+categories: meetup
+---
+The January 2018 meetup was at PagerDuty.
+
+Speakers:
+
+* Luke Galea @lukegalea - title: Flow basics
+* Tyler @tylerpachal (PagerDuty) - - title:  introduction to Actors
+* Erik Petersen @erikp33 (Nymi) -- title: DynamicSupervisor in Elixir 1.6 (15-20min)
