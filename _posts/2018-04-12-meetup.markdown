@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "April 2018 meetup"
+date:   2018-04-12
+categories: meetup
+---
+The April 2018 meetup was at Soundpays.
+
+Speakers:
+
+* Mark - “H2 in phoenix”
+* Mat Trudel @mtrudel (Moshozen) -- title: “mix new beats - finding the limits of the Erlang Scheduler” (25-30min)

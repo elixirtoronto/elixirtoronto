@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "May 2018 meetup"
+date:   2018-05-24
+categories: meetup
+---
+The May 2018 meetup was at PagerDuty.
+
+Speakers:
+* Rohan -
+* Jon Salis - GraphQL. [Code](https://github.com/Sailias/phoenix_api_react_apollo), [slides](https://docs.google.com/presentation/d/12Cm5RLbGrmcdOj42Y6GZLZujDGYLUsFfq7g7UFjRu6M/edit?usp=sharing)
+* Cees de Groot - Uderzo and Clixir. [Code](https://github.com/cdegroot/uderzo_poncho/), [slides](https://cdegroot.github.io/talks/2018-05-uderzo-clixir/#1)

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "November 2017 meetup"
+date:   2017-11-01
+categories: meetup
+---
+The November 2017 meetup was at Kinetic Cafe.
+
+Notes:
+
+* Jason Goodwin on Functional Programming Paradigms. [Notes](https://gist.github.com/ghedamat/226677b9a3832d324b9dbb3ba5c3ec5) ([raw version](https://gist.github.com/jasongoodwin/b6aa964ecfa230b53dc3562d85376819))
