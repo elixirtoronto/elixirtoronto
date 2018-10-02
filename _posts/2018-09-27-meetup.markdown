@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "May 2018 meetup"
+title:  "September 2018 meetup"
 date:   2018-10-27
 categories: meetup
 ---
