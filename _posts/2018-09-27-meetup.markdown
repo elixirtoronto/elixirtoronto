@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "May 2018 meetup"
+date:   2018-10-27
+categories: meetup
+---
+The September 2018 meetup was at theScore.
+
+Speakers:
+* Joseph An & Cristian Bratu - From Dev to Prod: How theScore deploys Elixir apps. [Slides](https://www.slideshare.net/JosephAn1/from-dev-to-prod-how-thescore-deploys-elixir-applications)
+* Jon Salis - Advanced GenStage/Flow. [Code](https://github.com/Sailias/genstage_flow_performance)
