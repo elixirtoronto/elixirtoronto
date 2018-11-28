@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "November 2018 meetup"
+date:   2018-11-22
+categories: meetup
+---
+The November meetup was at PagerDuty.
+
+Speakers:
+
+* Jason Goodwin - Domain Driven Design: Tackling Complexity with Elixir and Umbrella
+
+* Olaf Arason - Writing your first library or how I learned Elixir by creating a really fast json diff library [Slides](https://docs.google.com/presentation/d/1oaV0KQuWEY2zFcfuZ0GsbIIlxlsSxmP5-RL4F2DHDEY/edit?usp=sharing) [Code](https://github.com/olafura/json_diff_ex)
