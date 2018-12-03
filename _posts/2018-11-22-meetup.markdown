@@ -8,6 +8,6 @@ The November meetup was at PagerDuty.
 
 Speakers:
 
-* Jason Goodwin - Domain Driven Design: Tackling Complexity with Elixir and Umbrella
+* Jason Goodwin - Domain Driven Design: Tackling Complexity with Elixir and Umbrella [Slides](https://gist.github.com/jasongoodwin/d962e810b0caa04344e90e23226416cf)
 
 * Olaf Arason - Writing your first library or how I learned Elixir by creating a really fast json diff library [Slides](https://docs.google.com/presentation/d/1oaV0KQuWEY2zFcfuZ0GsbIIlxlsSxmP5-RL4F2DHDEY/edit?usp=sharing) [Code](https://github.com/olafura/json_diff_ex)
