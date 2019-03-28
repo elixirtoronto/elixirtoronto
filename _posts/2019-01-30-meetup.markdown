@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "January 2019 meetup"
+date:   2019-01-30
+categories: meetup
+---
+
+The January meetup was at PagerDuty.
+
+Speakers:
+
+* Khaja Minhajuddin - Pearls of Elixir: [Interesting patterns from popular Elixir packages](https://minhajuddin.com/2019/02/01/pearls-of-elixir-interesting-patterns-from-popular-elixir-packages/)
+* Mafinar Khan - Simple Ectonomics: A walkthrough of Ecto concepts focusing on simplicity and analogies.
+
