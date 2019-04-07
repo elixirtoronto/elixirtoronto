@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "March 2019 meetup"
+date:   2019-03-28
+categories: meetup
+---
+
+The March meetup was at PagerDuty.
+
+Speakers:
+
+* [Mat Trudel](https://github.com/mtrudel): The Best Of Both Worlds - Lessons Learned Adding Elixir to a Complex Rails Product ([link](https://github.com/mtrudel/Toronto-Elixir-Meetup-Mar-2019/blob/master/deck.pdf))
+* [Michael Viveros](https://github.com/MichaelViveros): Bulding a Webhook service in Elixir
+* [Luke Galea](https://github.com/lukegalea): Phoenix Live View Lightning Talk
