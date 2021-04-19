@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "August 2017 meetup"
+date:   2017-08-24
+categories: meetup
+---
+The August 2017 meetup was at PagerDuty.
+
+Speakers:
+
+* [Justin Giancola](https://github.com/elucid): Rebuilding my first Rails application in Phoenix
+* [Ben Moss](https://github.com/drteeth): Intro to Event Sourcing and CQRS ([link](https://drteeth.github.io/elixir-es-cqrs))
+* [Max Veytsman](https://twitter.com/mveytsman): Hacking your Elixir editor

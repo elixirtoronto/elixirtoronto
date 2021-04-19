@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "May 2019 meetup"
+date:   2019-05-30
+categories: meetup
+---
+
+The March meetup was at PagerDuty.
+
+Speakers:
+
+* [Ben Moss](https://github.com/drteeth): Event sourcing/CQRS in Elixir with Commanded ([link](https://drteeth.github.io/attend-elixir-talk))
